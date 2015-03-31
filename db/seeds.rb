@@ -1,0 +1,8 @@
+Task.create(content: "task1", code:"125905")
+Task.create(content: "task2", code:"144")
+Task.create(content: "task3", code:"af4521")
+Task.create(content: "task4", code:"#00-100")
+Task.create(content: "task5", code:"pappas")
+Task.create(content: "task6", code:"02473bd")
+Task.create(content: "task7", code:"asa4197")
+Task.create(content: "task8", code:"happybirthday")
