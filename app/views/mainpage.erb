@@ -1,0 +1,11 @@
+<div class="container">
+
+  <div class="task">
+    <h1><%= @task.content %></h1>
+    <br><br>
+  </div>
+  <form action="/code/submit" method="post">
+    <input type="text" name="code" placeholder="code">
+    <input type="submit" value="submit">
+  </form>
+</div>
