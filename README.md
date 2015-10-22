@@ -7,12 +7,12 @@ Go to app/db/seeds.rb to change the riddles and codes. You can also add more tas
 -comment out background-color: #fff; 
 -add a png image to app/public/imgs
 -then change the url("/imgs/YOUR_IMAGE.jpg")
-''' CSS
+```html
 body{
   /*background-color: #fff;*/
   background: url("/imgs/YOUR_IMAGE.jpg") no-repeat center center fixed;
 }
-'''
+```
 # How to use (localhost)
 
 1 Clone [this repo](https://github.com/Keenan144/spygame.git) to your desired location and navigate into it
